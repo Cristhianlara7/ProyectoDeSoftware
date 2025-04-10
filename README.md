@@ -1,4 +1,4 @@
-# ProyectoDeSoftware
+# ProyectoDeSoftware - Pasantías modalidad emprendimiento
 # Autor: Cristhian Lara
 Proyecto de pasantías modalidad emprendimiento
 
