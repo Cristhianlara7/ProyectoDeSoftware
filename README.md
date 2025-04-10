@@ -1,6 +1,6 @@
 # ProyectoDeSoftware
 # Autor: Cristhian Lara
-ProyectoDeSoftware Septimo semestre
+Proyecto de pasantías modalidad emprendimiento
 
 1 - Copie o mueva la carpeta ProyectoDeSoftware a su servidor local o remoto
 
